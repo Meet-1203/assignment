@@ -1,0 +1,13 @@
+Explain in your own words what a program is and how it functions....
+Ans.  Imagine a program as a recipe. The ingredients (input) are gathered first. The steps (processing) are followed in a specific order to create the final dish (output). The recipe might have decisions to make (if the dish needs to be baked or fried), and it can repeat steps (like mixing ingredients) multiple times.
+
+Example of a Program in Action:
+Consider a to-do list program:
+
+1..Input: You enter tasks you need to do.
+2..Processing: The program stores your tasks and might allow you to mark them as complete.
+3..Output: The program displays your to-do list, showing completed and pending tasks.
+4..Control Flow: If you mark a task as complete, the program updates the list accordingly.
+5..Variables: The list of tasks can be stored in memory and updated as tasks are added or completed.
+
+In conclusion, a program is a series of instructions that allow a computer to perform specific tasks, taking input, processing it, and providing output based on the logic defined by the programmer.
