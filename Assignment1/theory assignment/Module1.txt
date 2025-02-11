@@ -1,0 +1,12 @@
+1. What is HTTP ?
+Ans.. HTTP stands for HyperText Transfer Protocol. It is the main way web browsers and servers communicate to share information on the internet. Tim Berner invents it. HyperText is the type of text that is specially coded with the help of some standard coding language called HyperText Markup Language (HTML). When you visit a website, HTTP helps your browser request and receive the data needed to display the web pages you see. It is a fundamental part of how the internet works, making it possible for us to browse and interact with websites. In this article, we are going to discuss the Full form of HTTP along with its working, advantages, and disadvantages.
+
+2.What is a browser? How it works?
+Ans. A web browser is a software that enables users to access and view content on the World Wide Web. Its primary function is to locate and retrieve web pages, images, videos, documents, and other files from servers and display them on the user's device.
+
+3. What is Domain Name?
+Ans. A Domain Name is the address used to identify a website on the internet. It's essentially the text you type into the browser's address bar to access a specific website, like google.com, amazon.com, or example.org.
+
+4.What is hosting?
+Ans. Web Hosting is a service that allows individuals and organizations to make their website accessible on the internet. It involves storing the files, data, and content that make up your website on a server so that people can access it through their browsers.
+

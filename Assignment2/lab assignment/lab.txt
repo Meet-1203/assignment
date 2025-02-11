@@ -1,0 +1,62 @@
+Explain phases of SDLC life cycle.
+Ans. Phases of the SDLC:
+1...Planning:
+
+This is the initial phase where the project's objectives are defined. It involves gathering requirements from stakeholders, understanding the purpose of the software, and planning the entire development process. The feasibility of the project (in terms of time, cost, and resources) is also evaluated during this phase.
+Key Activities:
+Project scope definition
+Requirements gathering
+Resource allocation
+Risk analysis
+
+2....Feasibility Study:
+
+This phase evaluates the project's feasibility in detail. The feasibility study analyzes whether the project is technically, economically, and operationally viable.
+Key Activities:
+Assess technical, operational, and financial feasibility
+Create a feasibility report outlining the risks and opportunities
+Decide whether to proceed with the project or not
+
+3...System Design:
+
+Based on the requirements gathered, the system's architecture and design are created. This phase translates the requirements into a blueprint for the software.
+Key Activities:
+High-level design (architecture)
+Detailed design (modules, data structures)
+Interface design
+Database design
+
+4....Implementation (Coding):
+
+In this phase, the actual code for the software is written. Developers work on coding the system based on the design documents and specifications. It’s the longest phase of the SDLC.
+Key Activities:
+Writing the code according to the design documents
+Following coding standards and guidelines
+Unit testing for individual components
+
+5...Testing:
+
+Once the software is developed, it's rigorously tested to ensure it works as expected and meets the requirements. Different types of testing (unit testing, integration testing, system testing, user acceptance testing) are performed to identify bugs and fix them.
+Key Activities:
+Conducting various testing types
+Bug tracking and fixing
+Verifying functionality, security, and performance
+User acceptance testing (UAT) to ensure it meets user needs
+
+6...Deployment:
+
+After successful testing, the software is ready to be deployed to the production environment. The deployment phase involves installing the system on users' machines or servers and making it available for use.
+Key Activities:
+Deploying the software to the live environment
+Configuring and monitoring the system
+Ensuring all system requirements are met in the production environment
+
+7....Maintenance:
+
+After the software is deployed, it enters the maintenance phase, where ongoing support and updates are provided. This phase involves fixing any post-release bugs, adding new features, and updating the software as needed.
+Key Activities:
+Bug fixes
+Performance enhancements
+Updating the system to accommodate changes in requirements
+Regular monitoring and support
+
